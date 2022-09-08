@@ -1,1 +1,1 @@
-MY Shell Repo
+Read me for shell variables and expansions
