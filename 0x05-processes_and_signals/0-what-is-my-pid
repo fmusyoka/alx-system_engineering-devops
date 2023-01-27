@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-# This script displays current process ID.
-echo $$
+# my pid
+
+sleep 5 &
+echo "$!"
